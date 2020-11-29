@@ -1,0 +1,74 @@
+28000 Health (might reduce idk yet)
+
+--=!!NEW MOVES!!=--
+
+j.2C - The People's Elbow is back baby
+Attack level - 4
+Damage - 2000
+P1 - 100
+P2 - 85
+Hitstun - 79f in air, 34f when hitting the ground
+Overhead
+Hard Knockdown
+14f startup, 18f active, 19f recovery.
+Can be canceled into all supers, astral, and DP when you hit the ground.
+Can be canceled from j.A, j.AA, and j.B.
+On counterhit does groundbounce, allowing for 4A followup
+
+4B - Old 6B from BB proper.
+Attack level - 3
+Damage - 1800
+P1 - 90
+P2 - 85
+Hitstun - 19f
+Blockstun - 19f
+Mid
+14f startup, 3f active, 18f recovery.
+Can be canceled into 4BB, 2A, 5B, 2B, 5C, and 2C.
+Can be canceled from 4A, 4AA, 5A, 5AA, 5AAA, and 2A.
+
+4BB - ANOTHER STOMP
+Attack level - 3
+Damage - 2000
+P1 - 90
+P2 - 85
+Mid
+Hitstun - 19f
+Blockstun - 19f
+16f startup, 3f active, 18f recovery.
+Can be canceled into 4BB, 2A, 5B, 2B, 5C, and 2C.
+Can be canceled from 4B, it's an autocombo.
+Has magnetism on it to allow for 2A to always hit, go nuts on punishing assists with it!
+
+6P - Current 5AAA
+To lazy to look at it rn, but on grounded targets staggers instead of launches.
+
+--=Other changes=--
+
+5A - Startup changed to 13f(was 15f). P2 changed to 85 (was 80).
+5AA - P2 changed to 85 (was 80).
+
+4A - Damage changed to 1350 (was 1000). P2 changed to 80 (was 75).
+4AA - Damage changed to 1400 (was 1000). P2 changed to 80 (was 75).
+4AAA - Damage changed to 1600 (was 1500). P2 changed to 85 (was 80). Now jump cancelable.
+
+2A - Startup changed to 12f(was 13f), active to 3f (was 2f). P1 Changed to 85 (was 90). P2 changed to 85 (was 75).
+
+5B - P1 changed to 85 (was 80).  P2 changed to 90 (was 85).
+
+2C Damage changed to 1850 (was 1700).
+
+j.A - P1 changed to 85 (was 80).  P2 changed to 85 (was 80).
+J.AA - P1 changed to 85 (was 80).
+
+236A - Recovery now 17f (was 19f).
+
+236B - Recovery now 21f (was 23f).
+
+214B+C - Damage changed to 6250 (was 6120).  Res damage change to 7250 (was 7120).
+
+720B+C - Damage changed to 7000 (was 6620).  Res damage changed to 8000 (was 7620).
+
+j.214B+C - Damage changed to 6980 (was 6850).  Res damage changed to 7980 (was 7850).
+
+j.720B+C - Damage changed to 7730 (was 7350).  Res damage changed to 8730 (was 8350).

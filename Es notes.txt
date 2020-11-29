@@ -1,0 +1,13 @@
+Health - Changed from 17000 to 21000
+
+New move!
+j.2C - Tristan (tippy toes)
+Damage - 1200/1350/1500
+P1 - 80/80/80
+P2 - 95/85/80
+Startup - 14f/10f/13f
+
+5A now has 2f less recovery
+5A & 5AA now jump cancelable on block
+5B now jump cancelable on hit
+5B, 5BB, and j.C now have chip damage.

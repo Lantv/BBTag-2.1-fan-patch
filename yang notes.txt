@@ -1,0 +1,28 @@
+22000 HP
+
+Run speed lowered to 19000 (was 20000)
+
+5A blockstun changed to 12f (was 13f)
+
+2A recovery changed to 13f, P1 changed to 85 (was 90)
+
+2B P2 changed to 80 (was 75)
+
+j.A startup reduced to 10f
+
+j.B startup reduced to 12f
+
+j.C startup increased to 17f
+
+236A startup increased to 15f, projectile speed slowed down
+
+j.236A startup increased to 13f, added 2f projectile hitstop on counterhit
+
+236B startup increased to 17f, projectile speed slowed down
+
+j.236B startup increased to 13f, projectile speed slowed down,  added 2f projectile hitstop on counterhit
+
+236B+C major changes.
+Damage down to 3000 (3600), in res 3250 (3881), 1500 when used as DHC, & 2000 when used as DHC with CC up. Added wallsplat allowing for followup.  Increased distance traveled.
+
+222B+C damage increased

@@ -1,0 +1,32 @@
+22000 health
+
+6P - 21f knocked off recovery, 45f Untech time(was 40f), ProjectileLvl2
+
+4A - 15f blockstun (was 13f) makes it -6
+
+5A - 10f startup, Armor frame 1-10
+
+2A - 7f startup, can now 2A 4A 2A in a blockstring (not 4A 2A 4A 2A tho)
+
+2B - Jump cancelable on block
+
+2C - Armor frame 2-12
+
+214A - 21f startup, 25f recovery
+
+236B or C 6 - startup 2f faster
+
+236B or C 6 A - allows for followup on counterhit
+
+DP - Armor frame 1-31 (dustloop is a little wrong on this move, it has a 3f window between the hit ending and the invuln ending.  shits weird man)
+
+236B+C - damage multiplyer up (lvl1 95, lvl2 100, lvl3 105, lvl4 155, lvl5 240)
+
+214B+C - damage multiplyer up (lvl1 95, lvl2 100, lvl3 105, lvl4 140, lvl5 215)
+
+Significantly less axe lost when hit
+Less axe gained when hitting
+
+lvl1 axe damage down to 85%
+lvl4 up to 125%
+lvl5 up to 160%

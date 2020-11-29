@@ -1,0 +1,12 @@
+Health - 22000 (was 17000)
+
+j.C - now 14f startup, -15f on block (up from -12f), on hit cancels into 2C.
+
+5P - changed to current 214B (now mid and unable to CH)
+
+214A - now -6f or somethin idk
+
+214B - changed to current 214C with followup on hit (does less damage and is more negative)
+
+214C - changed to current 5P
+
