@@ -1,0 +1,6 @@
+21000 Health
+
+2B now throw invuln
+
+214C and j.214C heal slightly more
+236C and the first followup can now be dashcanceled
